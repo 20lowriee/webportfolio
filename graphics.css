@@ -129,6 +129,21 @@ ul#evaluation {
 	margin-left: 30px;
 	line-height: 20px;
 }
+img#graph {
+	margin-left: 100px;
+}
+img#monkey {
+	margin-left: 100px;
+}
+img#mountain2 {
+	margin-left: 100px;
+}
+img#puzzle {
+	margin-left: 100px;
+}
+img#stop {
+	margin-left: 100px;
+}
 h2#space {
 	color: white;
 }
