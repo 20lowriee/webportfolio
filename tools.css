@@ -73,7 +73,7 @@ li a.active {
 	color: #230235;
 	text-shadow: 1px 1px 1px black;
 }
-h2 {
+h2#tools {
 	text-indent: 7px;
 	line-height: 70%;
 	color: #CC82F5; 
